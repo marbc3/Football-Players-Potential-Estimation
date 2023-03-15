@@ -1,4 +1,4 @@
-# Football-Players-Potential-Analysis
+# Football-Players-Potential-Prediction
 ## VERİ TANIMI
 Veri seti Kaggle'dan alınmıştır. Veri seti Football Manager oyununun 2020 serisine ait futbolcu verilerini içermektedir
 
